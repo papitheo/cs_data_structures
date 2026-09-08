@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "deque": "cpp",
+        "stdexcept": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "array": "cpp",
+        "unordered_map": "cpp",
+        "memory": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "tuple": "cpp",
+        "list": "cpp",
+        "initializer_list": "cpp"
+    }
+}
